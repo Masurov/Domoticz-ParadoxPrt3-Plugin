@@ -16,7 +16,7 @@ To install:
 
 * Go in your Domoticz directory, open the plugins directory.
 * Navigate to the directory using a command line
-* Run: ```git clone https://github.com/masure/Domoticz-ParadoxPrt3-Plugin.git```
+* Run: ```git clone https://github.com/Masurov/Domoticz-ParadoxPrt3-Plugin.git```
 * Restart Domoticz.
 
 In the web UI, navigate to the Hardware page. In the hardware dropdown there will be an entry called "Paradox PRT3 serial interface".
