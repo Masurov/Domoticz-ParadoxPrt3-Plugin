@@ -134,7 +134,7 @@ def Send(message, log):
     if (log == True):
         LogMessage("Sent [{0}]".format(message))
 
-def onMessage(Connection, Data, Status, Extra):
+def onMessage(Connection, Data):
     global hasConnected, serialBuffer
     
     serialBuffer  += Data.decode("ascii")
