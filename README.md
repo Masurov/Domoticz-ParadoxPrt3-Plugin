@@ -10,7 +10,7 @@ Python plugin for Paradox Security PRT3 serial interface module
 
 ## Installation
 
-Tested on Python version 3.6 & Domoticz version 3.8153.
+Tested on Python version 3.6 & Domoticz version 4.9700 (3.8153 with plugin v1.0).
 
 To install:
 
@@ -43,3 +43,4 @@ To update:
 | Version | Information|
 | ----- | ---------- |
 | 1.0 | Initial upload version |
+| 1.1 | Plugin compatibility with Domoticz 4.97 stable update |

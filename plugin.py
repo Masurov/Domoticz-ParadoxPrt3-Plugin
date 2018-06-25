@@ -6,7 +6,7 @@
 #   Plugin parameter definition below will be parsed during startup and copied into Manifest.xml, this will then drive the user interface in the Hardware web page
 
 """
-<plugin key="ParadoxPrt3" name="Paradox PRT3 serial interface" author="Masure" version="1.0" externallink="">
+<plugin key="ParadoxPrt3" name="Paradox PRT3 serial interface" author="Masure" version="1.1" externallink="">
     <params>
         <param field="SerialPort" label="Serial Port" width="150px" required="true" default="COM7"/>
         <param field="Mode1" label="Zone definitions (paradox zone number#label|...)" width="400px" required="true" default="1#Motion Kitchen|2#Motion Hall|3#Motion Outdoors" />
