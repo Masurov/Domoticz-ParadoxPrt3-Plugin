@@ -14,6 +14,7 @@ Python plugin for Paradox Security PRT3 serial interface module
 * Have a [PRT3 Integration Module](http://www.paradox.com/Products/default.asp?CATID=7&SUBCATID=75&PRD=234) connected 
 * Configure the PRT3 module to enable serial communication (see ["ASCII Programming Guide" documentation](http://www.paradox.com/Downloader?ID=70), "Serial Port Setup" section)
   * set "Enable Serial Port" => ON
+  * set "Baud Settings" => 57600 
   * set "Serial Port Usage" => ON (home automation)
 
 ## Plugin Installation
