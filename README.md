@@ -8,7 +8,7 @@ Python plugin for Paradox Security PRT3 serial interface module
   1. 'Arm' selector switch device that tracks/changes the area arming status
   2. 'Alarm' on/off switch that tracks the area in alarm status
 
-## hardware prerequisites
+## Hardware prerequisites
 
 * Have a Paradox alarm system with on of those control panels EVO48, EVO96, EVO192, DGP-848, DGP-NE96
 * Have a [PRT3 Integration Module](http://www.paradox.com/Products/default.asp?CATID=7&SUBCATID=75&PRD=234) connected 
